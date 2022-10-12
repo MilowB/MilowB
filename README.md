@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mickaël Bettinelli
+- 👋 Hi, I’m Mickaël Bettinelli, associate professor at Savoie Mont Blanc University, LISTIC laboratory
 - 👀 I’m interested in distributed systems, multiagent systems and federated learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on research about federated learning, multiagent systems and distributed systems
 - 📫 How to reach me ...
 
