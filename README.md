@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mickaël Bettinelli, associate professor at Savoie Mont Blanc University, LISTIC laboratory
-- 👀 I’m interested in distributed systems, multiagent systems and federated learning
+- 👋 Hi, I’m Mickaël Bettinelli, associate professor at University Savoie Mont Blanc, LISTIC laboratory (France)
+- 👀 I’m interested in federated learning and multiagent systems
 - 🌱 I’m currently learning... a lot of things
-- 💞️ I’m looking to collaborate on research about federated learning. I would love to learn how to make a good pizza.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on research about federated learning. I would really like to learn how to make a good pizza.
+- 📫 Reach me at mickael dot bettinelli at univ-smb dot fr . I guess this trick doesn't work anymore with LLMs!
 
 <!---
 MilowB/MilowB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
